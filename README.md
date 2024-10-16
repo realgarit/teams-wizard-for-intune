@@ -141,7 +141,7 @@ Once you have the **Client ID** and **Redirect URI**, add them as parameters to 
    
 4. **Don't forget to add your API Key in the value field for tel.search.ch for contact lookups**
 
-5. **Upload the configuration script to Intune and assignt it to your liking**
+5. **Upload the configuration script to Intune and assignt it to your liking. You have to set the script to run using the logged on credentials, otherwise the configuration won't work**
 
 ---
 
