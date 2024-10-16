@@ -18,7 +18,6 @@ This repository contains a full automated script for packaging and deploying app
     - [Step 4: Retrieve the Client ID](#step-4-retrieve-the-client-id)
     - [Step 5: Add Authentication Parameters to Your Script](#step-5-add-authentication-parameters-to-your-script)
 - [Usage](#usage)
-- [Registry Configuration Example](#registry-configuration-example)
 - [End User Guide](#end-user-guide)
   - [Important Note](#important-note)
   - [Step-by-Step Instructions](#step-by-step-instructions)
