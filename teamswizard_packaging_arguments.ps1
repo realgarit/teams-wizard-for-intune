@@ -12,7 +12,7 @@ $DetectionArgs = @"
 Get-WmiObject -Class Win32_Product | Where {`$_.Vendor -eq 'LyncWizard.com' -and `$_.Version -eq '0.6.7'}
 "@
 
-.\TeamsWizard_packaging.ps1 -ClientID $ClientID `
+.\intune-packager-main.ps1 -ClientID $ClientID `
                                         -RedirectURI $RedirectURI `
                                         -PackageType $PackageType `
                                         -PackageName $PackageName `
