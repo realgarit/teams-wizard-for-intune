@@ -44,7 +44,7 @@ The following registry configuration allows the application to recognize and for
 
 ## Usage
 
-1. **Follow the insctructions in this Repository: **
+1. **Follow the insctructions in this [Repository](https://github.com/realgarit/intune-packager/blob/main/README.md#Usage)**
    
 3. **Don't forget to add your API Key in the value field for tel.search.ch for contact lookups**
 
