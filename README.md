@@ -44,17 +44,11 @@ The following registry configuration allows the application to recognize and for
 
 ## Usage
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/realgarit/intune-packager
-    cd intune-packager
-    ```
-
-2. **Update the parameters**
+1. **Follow the insctructions in this Repository: **
    
-4. **Don't forget to add your API Key in the value field for tel.search.ch for contact lookups**
+3. **Don't forget to add your API Key in the value field for tel.search.ch for contact lookups**
 
-5. **Upload the configuration script to Intune and assignt it to your liking. You have to set the script to run using the logged on credentials, otherwise the configuration won't work**
+4. **Upload the configuration script to Intune and assignt it to your liking. You have to set the script to run using the logged on credentials, otherwise the configuration won't work**
 
 ---
 
