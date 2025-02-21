@@ -16,12 +16,7 @@
 
 ## Credits
 
-This project is based on the excellent work from the [MSEndpointMgr/IntuneWin32App](https://github.com/MSEndpointMgr/IntuneWin32App) repository.
-
-- Original script by: [MSEndpointMgr](https://github.com/MSEndpointMgr)
-- License: [LICENSE](https://github.com/MSEndpointMgr/IntuneWin32App/blob/master/LICENSE)
-
-This repository also includes **TeamsWizard**, a tool that extends the functionality of Microsoft Teams with additional features such as hotkey dialing, call lookup, and actions triggered by incoming calls. You can learn more about TeamsWizard from their official [website](https://www.lyncwizard.com/products.html).
+This repository includes **TeamsWizard**, a tool that extends the functionality of Microsoft Teams with additional features such as hotkey dialing, call lookup, and actions triggered by incoming calls. You can learn more about TeamsWizard from their official [website](https://www.lyncwizard.com/products.html).
 
 TeamsWizard is developed by **E-Tel-IT GmbH**, based in Zunzgen, Switzerland, with over 30 years of experience in Microsoft environments. Special thanks to the team at E-Tel-IT for their contributions to improving Microsoft Teams functionality.
 
